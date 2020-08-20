@@ -8,3 +8,6 @@
 
 # RL 
 1. Introduction to RL and Bandit [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OxML2020/practicals/blob/master/OxML2020_RL1.ipynb)
+
+# DeepLearing for Computer Vision
+1. Representational Learning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uiohkOGwOxOLT6n_oT19o1QdW2gvGajx#scrollTo=q84I8_5sn25_)
