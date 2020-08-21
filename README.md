@@ -14,3 +14,4 @@
 
 # DeepLearing for Computer Vision
 1. Representational Learning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uiohkOGwOxOLT6n_oT19o1QdW2gvGajx#scrollTo=q84I8_5sn25_)
+2. Representational Learning (Solution Notebook) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1epSxL4Cn7ajcbV86GbeXZd15RCLFbjjQ#scrollTo=1_970am7B7o_)
